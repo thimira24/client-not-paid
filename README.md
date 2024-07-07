@@ -9,7 +9,6 @@ GradualFade is a JavaScript script designed to ensure timely payments from clien
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [License](#license)
 
 ## Features
 
@@ -159,6 +158,6 @@ Example:
 | dueDate    | daysDeadline | status  |
 | 2024-07-01 | 60           | unpaid  |
 
-## License
+## Thank you!
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
