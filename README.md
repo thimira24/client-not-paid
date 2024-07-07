@@ -1,5 +1,5 @@
 
-# GradualFade Payment Reminder
+# Client Not Paid - Payment Reminder
 
 GradualFade is a JavaScript script designed to ensure timely payments from clients by gradually reducing the opacity of their website until payment is made. The script fetches due date, days deadline, and payment status from an external Google Sheet, making it easy to update and manage remotely.
 
