@@ -42,7 +42,7 @@ GradualFade is a JavaScript script designed to ensure timely payments from clien
         const API_KEY = 'YOUR_API_KEY';
 
         // URL to fetch the data
-        const url = `https://sheets.googleapis.com/v4/spreadsheets/\${SHEET_ID}/values/A1:C2?key=\${API_KEY}`;
+        const url = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/A1:C2?key=${API_KEY}`;
 
         (function() {
             fetch(url)
