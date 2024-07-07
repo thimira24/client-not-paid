@@ -1,14 +1,21 @@
 
-# Client Not Paid
+# GradualFade Payment Reminder
 
-This project contains a JavaScript script designed to gradually decrease the opacity of a client's website if they fail to make a payment by a specified due date. The script allows for customizing the due date, the number of days until the site completely fades away, and includes a feature to restore visibility once payment is made.
+GradualFade is a JavaScript script designed to ensure timely payments from clients by gradually reducing the opacity of their website until payment is made. The script fetches due date, days deadline, and payment status from an external Google Sheet, making it easy to update and manage remotely.
 
 ## Table of Contents
 
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
 - [License](#license)
+
+## Features
+
+- **Automatic Opacity Reduction**: Gradually decreases website opacity based on overdue days.
+- **Remote Management**: Fetches due date and payment status from a Google Sheet.
+- **Visibility Restoration**: Restores full opacity once payment is marked as "paid" in the sheet.
 
 ## Installation
 
